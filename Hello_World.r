@@ -1,2 +1,1 @@
-cat('Hello, world!
-')
+cat('Hello, world!')
